@@ -4,6 +4,8 @@
 <h3 align=center><b>The next-generation of Discord RATs</b></h3>
 <h6 align=center>"Please read the entire README and <a href="https://github.com/NullCode1337/NullRAT/blob/source/Getting%20Variables.md">Getting Variables.md</a> before using the RAT"</h4>
 
+<h3 align=center> CURRENTLY FUD [1/26] </h3>
+
 <h3 align=center> DISABLE YOUR ANTI-VIRUS BEFORE USING </h3>
 
 ---
